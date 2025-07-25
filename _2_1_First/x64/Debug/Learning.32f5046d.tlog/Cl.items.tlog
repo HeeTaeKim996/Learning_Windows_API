@@ -1,0 +1,65 @@
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_11_2_1_CsNoClose.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_11_2_1_CsNoClose.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_11_2_2_WndClassEx.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_11_2_2_WndClassEx.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_11_3_1_G(S)et__ClassLongPtr.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_11_3_1_G(S)et__ClassLongPtr.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_11_3_2_CreateWindowEx.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_11_3_2_CreateWindowEx.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_11_3_3_G(S)etWindowLongPtr.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_11_3_3_G(S)etWindowLongPtr.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_11_4_1_ChildWnd.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_11_4_1_ChildWnd.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_11_4_2_Childs.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_11_4_2_Childs.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_11_4_3_WS_POPUPWINDOW_WM_NCHITTEST.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_11_4_3_WS_POPUPWINDOW_WM_NCHITTEST.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_11_5_WndExtra-G(S)etWindowLongPtr, G(S)etProp.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_11_5_WndExtra-G(S)etWindowLongPtr, G(S)etProp.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_1_1_MoveWindow_SetWindowPos_DeferWindowPos.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_1_1_MoveWindow_SetWindowPos_DeferWindowPos.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_1_2_ScreenToClient, AdjustWindowRect.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_1_2_ScreenToClient, AdjustWindowRect.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_1_3_G(S)etForegroundWindow.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_1_3_G(S)etForegroundWindow.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_1_4_FindWin.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_1_4_FindWin.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_1_5_WindowFromPoint.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_1_5_WindowFromPoint.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_1_6_EnumWindows.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_1_6_EnumWindows.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_2_1_CreateStruct.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_2_1_CreateStruct.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_2_2_WM_CLOSE.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_2_2_WM_CLOSE.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_2_3_WM_SIZING.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_2_3_WM_SIZING.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_2_4_WM_GETMINMAXINFO.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_2_4_WM_GETMINMAXINFO.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_2_5_WM_WINDOWPOSCHANGING_GetSystemMetrics.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_2_5_WM_WINDOWPOSCHANGING_GetSystemMetrics.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_2_6_WM_ACTIVATE, WM_ACTIVATEAPP.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_2_6_WM_ACTIVATE, WM_ACTIVATEAPP.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_2_7_WM_NCHITTEST.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_2_7_WM_NCHITTEST.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_3_1_HRGN_SetWindowRgn.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_3_1_HRGN_SetWindowRgn.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_3_2_GWL_EXSTYLE, WS_EX_LAYERED, LWA_ALPHA, LWA_COLORKEY.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_3_2_GWL_EXSTYLE, WS_EX_LAYERED, LWA_ALPHA, LWA_COLORKEY.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_12_3_3_AnimateWindow.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_12_3_3_AnimateWindow.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_1_2_GetKeyState.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_1_2_GetKeyState.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_1_1_PeekMessage.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_1_1_PeekMessage.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_1_3_PracticeGame_UsingGetKeyState_Space.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_1_3_PracticeGame_UsingGetKeyState_Space.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_1_4_GetMessageTime, GetMessagePos.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_1_4_GetMessageTime, GetMessagePos.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_2_1_MessageDeadLock.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_2_1_MessageDeadLock.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_2_2_SendMessageCallback.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_2_2_SendMessageCallback.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_3_1_SubEdit__(GWLP_WNDPROC, CallWindowProc).cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_3_1_SubEdit__(GWLP_WNDPROC, CallWindowProc).obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_2_1_First.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_2_1_First.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_2_3_Transformationcpp.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_2_3_Transformationcpp.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_3_1_TextOut.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_3_1_TextOut.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_3_2_TextOut_strlen_wsprintf_DrawText.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_3_2_TextOut_strlen_wsprintf_DrawText.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_3_3_2_MessageBox.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_3_3_2_MessageBox.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_3_3_1_DrawLines.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_3_3_1_DrawLines.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_4_1_1_WM_CHAR.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_4_1_1_WM_CHAR.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_4_1_2_WM_KEYDOWN.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_4_1_2_WM_KEYDOWN.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_4_2_Mouse.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_4_2_Mouse.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_4_3_2_TwoTimer.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_4_3_2_TwoTimer.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_4_3_1_Timer.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_4_3_1_Timer.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_4_3_3_RandGrp.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_4_3_3_RandGrp.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_4_3_4_CALLBACK.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_4_3_4_CALLBACK.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_4_3_5_OnceTimer.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_4_3_5_OnceTimer.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_4_4_WM_SIZE.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_4_4_WM_SIZE.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_5_2_Menu_Cursor_Icon_Accelerator_StringTable.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_5_2_Menu_Cursor_Icon_Accelerator_StringTable.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_6_1_1_GdiObject.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_6_1_1_GdiObject.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_6_1_2_DrawMode.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_6_1_2_DrawMode.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_6_3_BitMap.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_6_3_BitMap.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_6_4_Font.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_6_4_Font.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_1_Button_CheckButton.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_1_Button_CheckButton.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_2_RadioButton.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_2_RadioButton.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_3_Edit.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_3_Edit.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_4_ListBox_ComboBox.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_4_ListBox_ComboBox.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_5_ScrollBar.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_5_ScrollBar.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_8_1_1_DialogBox_Introducing_Dlg.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_8_1_1_DialogBox_Introducing_Dlg.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_8_1_2_DialogBox_DlgBase.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_8_1_2_DialogBox_DlgBase.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_8_3_1_DialogBoxes_Edit_CheckBox_RadioBox.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_8_3_1_DialogBoxes_Edit_CheckBox_RadioBox.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_8_3_2_DialogBox_Example_ReadingHelper.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_8_3_2_DialogBox_Example_ReadingHelper.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_8_4_Modeless_DialogBox.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_8_4_Modeless_DialogBox.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_9_1_Practice_Game_Sokoban.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_9_1_Practice_Game_Sokoban.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_9_2_Practice_Game_Tetris.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_9_2_Practice_Game_Tetris.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_9_3_Practice_Game_Couple.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_9_3_Practice_Game_Couple.obj

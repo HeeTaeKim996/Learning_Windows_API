@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="소스 파일\1_10">
+      <UniqueIdentifier>{aa4d150f-393f-4ab0-b740-9758843447e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\11_12">
+      <UniqueIdentifier>{18b45076-9603-482a-b260-f7a284a0770a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="리소스 파일\1_12">
+      <UniqueIdentifier>{57430726-2bdd-4804-b64e-ced6c2970390}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\13_16">
+      <UniqueIdentifier>{249b81d0-8b73-48c5-bf6a-5df20a7ea248}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="_2_1_First.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_2_3_Transformationcpp.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_3_1_TextOut.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_3_2_TextOut_strlen_wsprintf_DrawText.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_3_3_1_DrawLines.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_3_3_2_MessageBox.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_1_1_WM_CHAR.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_1_2_WM_KEYDOWN.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_2_Mouse.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_3_1_Timer.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_3_2_TwoTimer.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_3_3_RandGrp.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_3_4_CALLBACK.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_3_5_OnceTimer.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_4_4_WM_SIZE.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_5_2_Menu_Cursor_Icon_Accelerator_StringTable.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_6_1_1_GdiObject.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_6_1_2_DrawMode.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_6_3_BitMap.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_6_4_Font.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_7_1_Button_CheckButton.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_7_2_RadioButton.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_7_3_Edit.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_7_4_ListBox_ComboBox.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_7_5_ScrollBar.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_8_1_1_DialogBox_Introducing_Dlg.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_8_1_2_DialogBox_DlgBase.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_8_3_1_DialogBoxes_Edit_CheckBox_RadioBox.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_8_3_2_DialogBox_Example_ReadingHelper.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_8_4_Modeless_DialogBox.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_9_1_Practice_Game_Sokoban.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_9_2_Practice_Game_Tetris.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_9_3_Practice_Game_Couple.cpp">
+      <Filter>소스 파일\1_10</Filter>
+    </ClCompile>
+    <ClCompile Include="_11_2_1_CsNoClose.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_11_2_2_WndClassEx.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_11_3_1_G%28S%29et__ClassLongPtr.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_11_3_2_CreateWindowEx.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_11_3_3_G%28S%29etWindowLongPtr.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_11_4_1_ChildWnd.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_11_4_2_Childs.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_11_4_3_WS_POPUPWINDOW_WM_NCHITTEST.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_11_5_WndExtra-G%28S%29etWindowLongPtr, G%28S%29etProp.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_1_1_MoveWindow_SetWindowPos_DeferWindowPos.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_1_2_ScreenToClient, AdjustWindowRect.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_1_3_G(S)etForegroundWindow.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_1_4_FindWin.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_1_5_WindowFromPoint.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_1_6_EnumWindows.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_2_1_CreateStruct.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_2_2_WM_CLOSE.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_2_3_WM_SIZING.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_2_4_WM_GETMINMAXINFO.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_2_5_WM_WINDOWPOSCHANGING_GetSystemMetrics.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_2_6_WM_ACTIVATE, WM_ACTIVATEAPP.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_2_7_WM_NCHITTEST.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_3_1_HRGN_SetWindowRgn.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_3_2_GWL_EXSTYLE, WS_EX_LAYERED, LWA_ALPHA, LWA_COLORKEY.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_12_3_3_AnimateWindow.cpp">
+      <Filter>소스 파일\11_12</Filter>
+    </ClCompile>
+    <ClCompile Include="_13_1_1_PeekMessage.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_13_1_2_GetKeyState.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_13_1_3_PracticeGame_UsingGetKeyState_Space.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_13_1_4_GetMessageTime, GetMessagePos.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_13_2_1_MessageDeadLock.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_13_2_2_SendMessageCallback.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_13_3_1_SubEdit__%28GWLP_WNDPROC, CallWindowProc%29.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Sample_1.txt" />
+    <None Include="_5_2_2SmilingCursor.cur">
+      <Filter>리소스 파일\1_12</Filter>
+    </None>
+    <None Include="..\otherfiles\wave1.bin">
+      <Filter>리소스 파일\1_12</Filter>
+    </None>
+    <None Include="..\otherfiles\wave2.bin">
+      <Filter>리소스 파일\1_12</Filter>
+    </None>
+    <None Include="..\otherfiles\wave3.bin">
+      <Filter>리소스 파일\1_12</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Sample_2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="_5_2_HarryIcon.ico">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap2.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap3.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap4.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap5.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap6.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap7.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap8.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap9.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap10.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap11.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap12.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00001.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00002.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00003.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00004.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00005.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00006.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00007.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00008.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00009.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00010.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00011.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00012.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00013.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00014.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00015.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00016.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00017.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00018.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\OtherFiles\BMPPicture.bmp">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\icon2.ico">
+      <Filter>리소스 파일\1_12</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap13.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{32f5046d-0fbd-4254-8ec2-d9fc33968213}</ProjectGuid>
+    <RootNamespace>My21First</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Learning_WindowsAPI</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="_11_2_1_CsNoClose.cpp" />
+    <ClCompile Include="_11_2_2_WndClassEx.cpp" />
+    <ClCompile Include="_11_3_1_G%28S%29et__ClassLongPtr.cpp" />
+    <ClCompile Include="_11_3_2_CreateWindowEx.cpp" />
+    <ClCompile Include="_11_3_3_G%28S%29etWindowLongPtr.cpp" />
+    <ClCompile Include="_11_4_1_ChildWnd.cpp" />
+    <ClCompile Include="_11_4_2_Childs.cpp" />
+    <ClCompile Include="_11_4_3_WS_POPUPWINDOW_WM_NCHITTEST.cpp" />
+    <ClCompile Include="_11_5_WndExtra-G%28S%29etWindowLongPtr, G%28S%29etProp.cpp" />
+    <ClCompile Include="_12_1_1_MoveWindow_SetWindowPos_DeferWindowPos.cpp" />
+    <ClCompile Include="_12_1_2_ScreenToClient, AdjustWindowRect.cpp" />
+    <ClCompile Include="_12_1_3_G(S)etForegroundWindow.cpp" />
+    <ClCompile Include="_12_1_4_FindWin.cpp" />
+    <ClCompile Include="_12_1_5_WindowFromPoint.cpp" />
+    <ClCompile Include="_12_1_6_EnumWindows.cpp" />
+    <ClCompile Include="_12_2_1_CreateStruct.cpp" />
+    <ClCompile Include="_12_2_2_WM_CLOSE.cpp" />
+    <ClCompile Include="_12_2_3_WM_SIZING.cpp" />
+    <ClCompile Include="_12_2_4_WM_GETMINMAXINFO.cpp" />
+    <ClCompile Include="_12_2_5_WM_WINDOWPOSCHANGING_GetSystemMetrics.cpp" />
+    <ClCompile Include="_12_2_6_WM_ACTIVATE, WM_ACTIVATEAPP.cpp" />
+    <ClCompile Include="_12_2_7_WM_NCHITTEST.cpp" />
+    <ClCompile Include="_12_3_1_HRGN_SetWindowRgn.cpp" />
+    <ClCompile Include="_12_3_2_GWL_EXSTYLE, WS_EX_LAYERED, LWA_ALPHA, LWA_COLORKEY.cpp" />
+    <ClCompile Include="_12_3_3_AnimateWindow.cpp" />
+    <ClCompile Include="_13_1_2_GetKeyState.cpp" />
+    <ClCompile Include="_13_1_1_PeekMessage.cpp" />
+    <ClCompile Include="_13_1_3_PracticeGame_UsingGetKeyState_Space.cpp" />
+    <ClCompile Include="_13_1_4_GetMessageTime, GetMessagePos.cpp" />
+    <ClCompile Include="_13_2_1_MessageDeadLock.cpp" />
+    <ClCompile Include="_13_2_2_SendMessageCallback.cpp" />
+    <ClCompile Include="_13_3_1_SubEdit__%28GWLP_WNDPROC, CallWindowProc%29.cpp" />
+    <ClCompile Include="_2_1_First.cpp" />
+    <ClCompile Include="_2_3_Transformationcpp.cpp" />
+    <ClCompile Include="_3_1_TextOut.cpp" />
+    <ClCompile Include="_3_2_TextOut_strlen_wsprintf_DrawText.cpp" />
+    <ClCompile Include="_3_3_2_MessageBox.cpp" />
+    <ClCompile Include="_3_3_1_DrawLines.cpp" />
+    <ClCompile Include="_4_1_1_WM_CHAR.cpp" />
+    <ClCompile Include="_4_1_2_WM_KEYDOWN.cpp" />
+    <ClCompile Include="_4_2_Mouse.cpp" />
+    <ClCompile Include="_4_3_2_TwoTimer.cpp" />
+    <ClCompile Include="_4_3_1_Timer.cpp" />
+    <ClCompile Include="_4_3_3_RandGrp.cpp" />
+    <ClCompile Include="_4_3_4_CALLBACK.cpp" />
+    <ClCompile Include="_4_3_5_OnceTimer.cpp" />
+    <ClCompile Include="_4_4_WM_SIZE.cpp" />
+    <ClCompile Include="_5_2_Menu_Cursor_Icon_Accelerator_StringTable.cpp" />
+    <ClCompile Include="_6_1_1_GdiObject.cpp" />
+    <ClCompile Include="_6_1_2_DrawMode.cpp" />
+    <ClCompile Include="_6_3_BitMap.cpp" />
+    <ClCompile Include="_6_4_Font.cpp" />
+    <ClCompile Include="_7_1_Button_CheckButton.cpp" />
+    <ClCompile Include="_7_2_RadioButton.cpp" />
+    <ClCompile Include="_7_3_Edit.cpp" />
+    <ClCompile Include="_7_4_ListBox_ComboBox.cpp" />
+    <ClCompile Include="_7_5_ScrollBar.cpp" />
+    <ClCompile Include="_8_1_1_DialogBox_Introducing_Dlg.cpp" />
+    <ClCompile Include="_8_1_2_DialogBox_DlgBase.cpp" />
+    <ClCompile Include="_8_3_1_DialogBoxes_Edit_CheckBox_RadioBox.cpp" />
+    <ClCompile Include="_8_3_2_DialogBox_Example_ReadingHelper.cpp" />
+    <ClCompile Include="_8_4_Modeless_DialogBox.cpp" />
+    <ClCompile Include="_9_1_Practice_Game_Sokoban.cpp" />
+    <ClCompile Include="_9_2_Practice_Game_Tetris.cpp" />
+    <ClCompile Include="_9_3_Practice_Game_Couple.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="_5_2_Menu_Cursor_Icon.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\otherfiles\bitmap10.bmp" />
+    <Image Include="..\otherfiles\bitmap11.bmp" />
+    <Image Include="..\otherfiles\bitmap12.bmp" />
+    <Image Include="..\otherfiles\bitmap13.bmp" />
+    <Image Include="..\otherfiles\bitmap2.bmp" />
+    <Image Include="..\otherfiles\bitmap3.bmp" />
+    <Image Include="..\otherfiles\bitmap4.bmp" />
+    <Image Include="..\otherfiles\bitmap5.bmp" />
+    <Image Include="..\otherfiles\bitmap6.bmp" />
+    <Image Include="..\otherfiles\bitmap7.bmp" />
+    <Image Include="..\otherfiles\bitmap8.bmp" />
+    <Image Include="..\otherfiles\bitmap9.bmp" />
+    <Image Include="..\otherfiles\bmp00001.bmp" />
+    <Image Include="..\otherfiles\bmp00002.bmp" />
+    <Image Include="..\otherfiles\bmp00003.bmp" />
+    <Image Include="..\otherfiles\bmp00004.bmp" />
+    <Image Include="..\otherfiles\bmp00005.bmp" />
+    <Image Include="..\otherfiles\bmp00006.bmp" />
+    <Image Include="..\otherfiles\bmp00007.bmp" />
+    <Image Include="..\otherfiles\bmp00008.bmp" />
+    <Image Include="..\otherfiles\bmp00009.bmp" />
+    <Image Include="..\otherfiles\bmp00010.bmp" />
+    <Image Include="..\otherfiles\bmp00011.bmp" />
+    <Image Include="..\otherfiles\bmp00012.bmp" />
+    <Image Include="..\otherfiles\bmp00013.bmp" />
+    <Image Include="..\otherfiles\bmp00014.bmp" />
+    <Image Include="..\otherfiles\bmp00015.bmp" />
+    <Image Include="..\otherfiles\bmp00016.bmp" />
+    <Image Include="..\otherfiles\bmp00017.bmp" />
+    <Image Include="..\otherfiles\bmp00018.bmp" />
+    <Image Include="..\OtherFiles\BMPPicture.bmp" />
+    <Image Include="..\otherfiles\icon2.ico" />
+    <Image Include="_5_2_HarryIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\otherfiles\wave1.bin" />
+    <None Include="..\otherfiles\wave2.bin" />
+    <None Include="..\otherfiles\wave3.bin" />
+    <None Include="Sample_1.txt" />
+    <None Include="_5_2_2SmilingCursor.cur" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Sample_2.txt" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
