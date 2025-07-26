@@ -165,6 +165,9 @@
     <ClCompile Include="_13_2_1_MessageDeadLock.cpp" />
     <ClCompile Include="_13_2_2_SendMessageCallback.cpp" />
     <ClCompile Include="_13_3_1_SubEdit__%28GWLP_WNDPROC, CallWindowProc%29.cpp" />
+    <ClCompile Include="_13_3_2_SubEdit2_GCLP_WNDPROC.cpp" />
+    <ClCompile Include="_13_3_3_SuperEdit.cpp" />
+    <ClCompile Include="_13_5_UserMes%28WM_USER, WM_APP, RegisteWindowMessage%29.cpp" />
     <ClCompile Include="_2_1_First.cpp" />
     <ClCompile Include="_2_3_Transformationcpp.cpp" />
     <ClCompile Include="_3_1_TextOut.cpp" />

@@ -233,6 +233,15 @@
     <ClCompile Include="_13_3_1_SubEdit__%28GWLP_WNDPROC, CallWindowProc%29.cpp">
       <Filter>소스 파일\13_16</Filter>
     </ClCompile>
+    <ClCompile Include="_13_3_2_SubEdit2_GCLP_WNDPROC.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_13_3_3_SuperEdit.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_13_5_UserMes%28WM_USER, WM_APP, RegisteWindowMessage%29.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Sample_1.txt" />
