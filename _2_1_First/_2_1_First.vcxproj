@@ -168,6 +168,10 @@
     <ClCompile Include="_13_3_2_SubEdit2_GCLP_WNDPROC.cpp" />
     <ClCompile Include="_13_3_3_SuperEdit.cpp" />
     <ClCompile Include="_13_5_UserMes%28WM_USER, WM_APP, RegisteWindowMessage%29.cpp" />
+    <ClCompile Include="_14_1_1_OwnDC%28CS_OWNDC%29.cpp" />
+    <ClCompile Include="_14_1_2_WindowDC%28GetWindowDC%29.cpp" />
+    <ClCompile Include="_14_1_3_%28!%29GetDviceCaps.cpp" />
+    <ClCompile Include="_14_1_4_WM_PAINT, UpdateWindow.cpp" />
     <ClCompile Include="_2_1_First.cpp" />
     <ClCompile Include="_2_3_Transformationcpp.cpp" />
     <ClCompile Include="_3_1_TextOut.cpp" />

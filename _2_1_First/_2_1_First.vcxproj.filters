@@ -242,6 +242,18 @@
     <ClCompile Include="_13_5_UserMes%28WM_USER, WM_APP, RegisteWindowMessage%29.cpp">
       <Filter>소스 파일\13_16</Filter>
     </ClCompile>
+    <ClCompile Include="_14_1_1_OwnDC%28CS_OWNDC%29.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_1_2_WindowDC%28GetWindowDC%29.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_1_3_%28!%29GetDviceCaps.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_1_4_WM_PAINT, UpdateWindow.cpp">
+      <Filter>소스 파일\13_16</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Sample_1.txt" />

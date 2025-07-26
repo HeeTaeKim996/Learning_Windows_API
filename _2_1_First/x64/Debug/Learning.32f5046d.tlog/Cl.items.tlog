@@ -32,7 +32,11 @@ C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_2_2_SendMessageC
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_3_1_SubEdit__(GWLP_WNDPROC, CallWindowProc).cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_3_1_SubEdit__(GWLP_WNDPROC, CallWindowProc).obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_3_2_SubEdit2_GCLP_WNDPROC.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_3_2_SubEdit2_GCLP_WNDPROC.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_3_3_SuperEdit.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_3_3_SuperEdit.obj
-C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_5_UserMes.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_5_UserMes.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_13_5_UserMes(WM_USER, WM_APP, RegisteWindowMessage).cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_13_5_UserMes(WM_USER, WM_APP, RegisteWindowMessage).obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_1_1_OwnDC(CS_OWNDC).cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_1_1_OwnDC(CS_OWNDC).obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_1_2_WindowDC(GetWindowDC).cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_1_2_WindowDC(GetWindowDC).obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_1_3_(!)GetDviceCaps.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_1_3_(!)GetDviceCaps.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_1_4_WM_PAINT, UpdateWindow.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_1_4_WM_PAINT, UpdateWindow.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_2_1_First.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_2_1_First.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_2_3_Transformationcpp.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_2_3_Transformationcpp.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_3_1_TextOut.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_3_1_TextOut.obj
