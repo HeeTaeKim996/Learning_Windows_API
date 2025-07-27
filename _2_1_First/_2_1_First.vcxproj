@@ -172,6 +172,16 @@
     <ClCompile Include="_14_1_2_WindowDC%28GetWindowDC%29.cpp" />
     <ClCompile Include="_14_1_3_%28!%29GetDviceCaps.cpp" />
     <ClCompile Include="_14_1_4_WM_PAINT, UpdateWindow.cpp" />
+    <ClCompile Include="_14_2_1_WS_CLIPCHILDREN, WS_CLIPSIBLINGS.cpp" />
+    <ClCompile Include="_14_2_2_rcPaint.cpp" />
+    <ClCompile Include="_14_2_3.WM_BEGINPAINT.cpp" />
+    <ClCompile Include="_14_2_4_WM_NCPAINT.cpp" />
+    <ClCompile Include="_14_2_5_%28!%29WM_ERASEBKGND.cpp" />
+    <ClCompile Include="_14_2_6_WM_ERASEBKGND%28DrawingBackground%29.cpp" />
+    <ClCompile Include="_14_3_1_Mouse2(StroingDrawInforms).cpp" />
+    <ClCompile Include="_14_3_2_Mouse3(UsedBitmapToRePaint).cpp" />
+    <ClCompile Include="_14_4_1_LockWindowUpdate.cpp" />
+    <ClCompile Include="_14_4_2_SaveDC.cpp" />
     <ClCompile Include="_2_1_First.cpp" />
     <ClCompile Include="_2_3_Transformationcpp.cpp" />
     <ClCompile Include="_3_1_TextOut.cpp" />
@@ -214,6 +224,9 @@
     <Image Include="..\otherfiles\bitmap11.bmp" />
     <Image Include="..\otherfiles\bitmap12.bmp" />
     <Image Include="..\otherfiles\bitmap13.bmp" />
+    <Image Include="..\otherfiles\bitmap14.bmp" />
+    <Image Include="..\otherfiles\bitmap15.bmp" />
+    <Image Include="..\otherfiles\bitmap16.bmp" />
     <Image Include="..\otherfiles\bitmap2.bmp" />
     <Image Include="..\otherfiles\bitmap3.bmp" />
     <Image Include="..\otherfiles\bitmap4.bmp" />
@@ -241,10 +254,12 @@
     <Image Include="..\otherfiles\bmp00017.bmp" />
     <Image Include="..\otherfiles\bmp00018.bmp" />
     <Image Include="..\OtherFiles\BMPPicture.bmp" />
+    <Image Include="..\OtherFiles\Harry.bmp" />
     <Image Include="..\otherfiles\icon2.ico" />
     <Image Include="_5_2_HarryIcon.ico" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="..\otherfiles\cursor2.cur" />
     <None Include="..\otherfiles\wave1.bin" />
     <None Include="..\otherfiles\wave2.bin" />
     <None Include="..\otherfiles\wave3.bin" />

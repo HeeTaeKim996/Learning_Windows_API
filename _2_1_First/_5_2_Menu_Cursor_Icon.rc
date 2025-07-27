@@ -109,6 +109,8 @@ IDI_ICON1               ICON                    "_5_2_HarryIcon.ico"
 
 IDC_CURSOR1             CURSOR                  "_5_2_2SmilingCursor.cur"
 
+IDC_CURSOR2             CURSOR                  "c:\\users\\heetae\\source\\repos\\learning_windowsapi\\otherfiles\\cursor2.cur"
+
 
 /////////////////////////////////////////////////////////////////////////////
 //
@@ -200,6 +202,14 @@ IDB_BITMAP_Couple_7     BITMAP                  "c:\\users\\heetae\\source\\repo
 IDB_BITMAP_Couple_8     BITMAP                  "c:\\users\\heetae\\source\\repos\\learning_windowsapi\\otherfiles\\bmp00018.bmp"
 
 IDB_BITMAP_SpacePlane   BITMAP                  "c:\\users\\heetae\\source\\repos\\learning_windowsapi\\otherfiles\\bitmap13.bmp"
+
+IDB_BITMAP14            BITMAP                  "c:\\users\\heetae\\source\\repos\\learning_windowsapi\\otherfiles\\bitmap14.bmp"
+
+IDB_BITMAP15            BITMAP                  "c:\\users\\heetae\\source\\repos\\learning_windowsapi\\otherfiles\\bitmap15.bmp"
+
+IDB_BITMAP16            BITMAP                  "c:\\users\\heetae\\source\\repos\\learning_windowsapi\\otherfiles\\bitmap16.bmp"
+
+IDB_BITMAP_HARRY        BITMAP                  "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\OtherFiles\\Harry.bmp"
 
 
 /////////////////////////////////////////////////////////////////////////////

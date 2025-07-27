@@ -37,6 +37,16 @@ C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_1_1_OwnDC(CS_OWN
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_1_2_WindowDC(GetWindowDC).cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_1_2_WindowDC(GetWindowDC).obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_1_3_(!)GetDviceCaps.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_1_3_(!)GetDviceCaps.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_1_4_WM_PAINT, UpdateWindow.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_1_4_WM_PAINT, UpdateWindow.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_2_1_WS_CLIPCHILDREN, WS_CLIPSIBLINGS.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_2_1_WS_CLIPCHILDREN, WS_CLIPSIBLINGS.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_2_2_rcPaint.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_2_2_rcPaint.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_2_3.WM_BEGINPAINT.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_2_3.WM_BEGINPAINT.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_2_4_WM_NCPAINT.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_2_4_WM_NCPAINT.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_2_5_(!)WM_ERASEBKGND.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_2_5_(!)WM_ERASEBKGND.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_2_6_WM_ERASEBKGND(DrawingBackground).cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_2_6_WM_ERASEBKGND(DrawingBackground).obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_3_1_Mouse2(StroingDrawInforms).cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_3_1_Mouse2(StroingDrawInforms).obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_3_2_Mouse3(UsedBitmapToRePaint).cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_3_2_Mouse3(UsedBitmapToRePaint).obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_4_1_LockWindowUpdate.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_4_1_LockWindowUpdate.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_14_4_2_SaveDC.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_14_4_2_SaveDC.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_2_1_First.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_2_1_First.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_2_3_Transformationcpp.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_2_3_Transformationcpp.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_3_1_TextOut.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_3_1_TextOut.obj

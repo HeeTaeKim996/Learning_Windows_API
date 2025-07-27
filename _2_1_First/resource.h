@@ -960,14 +960,20 @@
 #define IDB_BITMAP_SpacePlane           160
 #define VK_RSHIFT                       0xA1
 #define WM_NCLBUTTONDOWN                0x00A1
+#define IDB_BITMAP14                    161
 #define VK_LCONTROL                     0xA2
 #define WM_NCLBUTTONUP                  0x00A2
+#define IDC_CURSOR2                     162
 #define VK_RCONTROL                     0xA3
 #define WM_NCLBUTTONDBLCLK              0x00A3
+#define IDB_BITMAP15                    163
 #define VK_LMENU                        0xA4
 #define WM_NCRBUTTONDOWN                0x00A4
+#define IDB_BITMAP16                    164
 #define VK_RMENU                        0xA5
 #define WM_NCRBUTTONUP                  0x00A5
+#define IDB_BITMAP17                    165
+#define IDB_BITMAP_HARRY                165
 #define VK_BROWSER_BACK                 0xA6
 #define WM_NCRBUTTONDBLCLK              0x00A6
 #define VK_BROWSER_FORWARD              0xA7
@@ -1715,7 +1721,7 @@
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
-#define _APS_NEXT_RESOURCE_VALUE        161
+#define _APS_NEXT_RESOURCE_VALUE        166
 #define _APS_NEXT_COMMAND_VALUE         40029
 #define _APS_NEXT_CONTROL_VALUE         1012
 #define _APS_NEXT_SYMED_VALUE           101

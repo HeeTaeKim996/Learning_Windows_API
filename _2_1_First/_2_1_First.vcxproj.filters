@@ -25,6 +25,9 @@
     <Filter Include="소스 파일\13_16">
       <UniqueIdentifier>{249b81d0-8b73-48c5-bf6a-5df20a7ea248}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\14_Painting">
+      <UniqueIdentifier>{b050bea6-7206-4149-8653-edf2362a3847}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -243,16 +246,46 @@
       <Filter>소스 파일\13_16</Filter>
     </ClCompile>
     <ClCompile Include="_14_1_1_OwnDC%28CS_OWNDC%29.cpp">
-      <Filter>소스 파일\13_16</Filter>
+      <Filter>소스 파일\14_Painting</Filter>
     </ClCompile>
     <ClCompile Include="_14_1_2_WindowDC%28GetWindowDC%29.cpp">
-      <Filter>소스 파일\13_16</Filter>
+      <Filter>소스 파일\14_Painting</Filter>
     </ClCompile>
     <ClCompile Include="_14_1_3_%28!%29GetDviceCaps.cpp">
-      <Filter>소스 파일\13_16</Filter>
+      <Filter>소스 파일\14_Painting</Filter>
     </ClCompile>
     <ClCompile Include="_14_1_4_WM_PAINT, UpdateWindow.cpp">
-      <Filter>소스 파일\13_16</Filter>
+      <Filter>소스 파일\14_Painting</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_2_1_WS_CLIPCHILDREN, WS_CLIPSIBLINGS.cpp">
+      <Filter>소스 파일\14_Painting</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_2_2_rcPaint.cpp">
+      <Filter>소스 파일\14_Painting</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_2_3.WM_BEGINPAINT.cpp">
+      <Filter>소스 파일\14_Painting</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_2_4_WM_NCPAINT.cpp">
+      <Filter>소스 파일\14_Painting</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_2_5_%28!%29WM_ERASEBKGND.cpp">
+      <Filter>소스 파일\14_Painting</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_2_6_WM_ERASEBKGND%28DrawingBackground%29.cpp">
+      <Filter>소스 파일\14_Painting</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_3_1_Mouse2(StroingDrawInforms).cpp">
+      <Filter>소스 파일\14_Painting</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_3_2_Mouse3(UsedBitmapToRePaint).cpp">
+      <Filter>소스 파일\14_Painting</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_4_1_LockWindowUpdate.cpp">
+      <Filter>소스 파일\14_Painting</Filter>
+    </ClCompile>
+    <ClCompile Include="_14_4_2_SaveDC.cpp">
+      <Filter>소스 파일\14_Painting</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
@@ -267,6 +300,9 @@
       <Filter>리소스 파일\1_12</Filter>
     </None>
     <None Include="..\otherfiles\wave3.bin">
+      <Filter>리소스 파일\1_12</Filter>
+    </None>
+    <None Include="..\otherfiles\cursor2.cur">
       <Filter>리소스 파일\1_12</Filter>
     </None>
   </ItemGroup>
@@ -371,6 +407,18 @@
       <Filter>리소스 파일\1_12</Filter>
     </Image>
     <Image Include="..\otherfiles\bitmap13.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\OtherFiles\Harry.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap14.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap15.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap16.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
   </ItemGroup>
