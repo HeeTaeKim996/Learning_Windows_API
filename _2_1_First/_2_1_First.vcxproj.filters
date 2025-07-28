@@ -317,6 +317,12 @@
     <ClCompile Include="_15_3_3_FileOpenDial_3.cpp">
       <Filter>소스 파일\15_2_FileOpenDial</Filter>
     </ClCompile>
+    <ClCompile Include="_15_3_4_FileOpenDial_4.cpp">
+      <Filter>소스 파일\15_2_FileOpenDial</Filter>
+    </ClCompile>
+    <ClCompile Include="_15_3_5_BrwoseFolder.cpp">
+      <Filter>소스 파일\15_2_FileOpenDial</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Sample_1.txt" />

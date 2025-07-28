@@ -190,6 +190,8 @@
     <ClCompile Include="_15_3_1_FileOpenDial_1.cpp" />
     <ClCompile Include="_15_3_2_FileOpenDial_2.cpp" />
     <ClCompile Include="_15_3_3_FileOpenDial_3.cpp" />
+    <ClCompile Include="_15_3_4_FileOpenDial_4.cpp" />
+    <ClCompile Include="_15_3_5_BrwoseFolder.cpp" />
     <ClCompile Include="_2_1_First.cpp" />
     <ClCompile Include="_2_3_Transformationcpp.cpp" />
     <ClCompile Include="_3_1_TextOut.cpp" />

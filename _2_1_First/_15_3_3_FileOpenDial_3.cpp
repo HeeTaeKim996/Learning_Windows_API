@@ -1,4 +1,4 @@
-#if 1 // Total
+#if 0 // Total
 /*----------------------------------------------------------------------------------------------------
 	FileOpenDial1 에서 다중선택에 대한 코드입니다.
 	아래 정리한 개념을 이해하지 못했다면, 아래 코드를 이해하기 어렵기 때문에, 정리합니다.
@@ -24,13 +24,13 @@
 ----------------------------------------------------------------------------------------------------*/
 
 
-#if 1 // 주석
+#if 0 // 주석
 #include <Windows.h>
 #include "resource.h"
 
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 HINSTANCE g_hInst;
-LPCTSTR lpszClass = TEXT("Sample_2");
+LPCTSTR lpszClass = TEXT("Learning_3");
 
 int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmdParam, int nCmdShow)
 {
@@ -85,7 +85,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 		memset(&OFN, 0, sizeof(OPENFILENAME));
 		OFN.lStructSize = sizeof(OPENFILENAME);
 		OFN.hwndOwner = hWnd;
-		OFN.lpstrFilter = TEXT("모든 파일(*.)\0*.*\0");
+		OFN.lpstrFilter = TEXT("모든 파일(*.*)\0*.*\0");
 		OFN.lpstrFile = lpstrFile;
 		OFN.nMaxFile = 10'000;
 		OFN.Flags = OFN_EXPLORER | OFN_ALLOWMULTISELECT;  // ※ 두플래그는 고정되어 묶음으로 사용됨. 통째로 외우기
@@ -146,13 +146,13 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 #endif // 주석
 
 
-#if 0 // 코드만
+#if 1 // 코드만
 #include <Windows.h>
 #include "resource.h"
 
 LRESULT CALLBACK WndProc(HWND, UINT, WPARAM, LPARAM);
 HINSTANCE g_hInst;
-LPCTSTR lpszClass = TEXT("Sample_2");
+LPCTSTR lpszClass = TEXT("Learning_3");
 
 int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmdParam, int nCmdShow)
 {
@@ -190,11 +190,74 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmd
 LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 {
 	HDC hdc;
+	PAINTSTRUCT ps;
+	const TCHAR* Mes = TEXT("마우스 왼쪽 버튼을 누르십시오");
+	OPENFILENAME OFN;
+	TCHAR str[32'000] = TEXT("");
+	TCHAR lpstrFile[10'000] = TEXT("");
+	TCHAR* p;
+	TCHAR Name[MAX_PATH];
+	TCHAR szTmp[MAX_PATH];
+	int i = 1;
 
 
 	switch (iMessage)
 	{
+	case WM_LBUTTONDOWN:
+		memset(&OFN, 0, sizeof(OPENFILENAME));
+		OFN.lStructSize = sizeof(OPENFILENAME);
+		OFN.hwndOwner = hWnd;
+		OFN.lpstrFilter = TEXT("모든파일(*.*)\0*.*\0");
+		OFN.lpstrFile = lpstrFile;
+		OFN.nMaxFile = 10'000;
+		OFN.Flags = OFN_EXPLORER | OFN_ALLOWMULTISELECT;
+		
+		if (GetOpenFileName(&OFN) != 0)
+		{
+			p = lpstrFile;
+			lstrcpy(Name, p);
+			if (*(p + lstrlen(Name) + 1) == 0)
+			{
+				wsprintf(str, TEXT("%s 파일 하나만 선택했습니다"), Name);
+			}
+			else
+			{
+				wsprintf(str, TEXT("%s 디렉토리에 있는 다음 파일들이 선택되었습니다\r\n\r\n"), Name);
 
+				while (1)
+				{
+					p = p + lstrlen(Name) + 1;
+					if (*p == 0)
+					{
+						break;
+					}
+					lstrcpy(Name, p);
+					wsprintf(szTmp, TEXT("%d번째 파일 = %s \r\n"), i++, Name);
+					lstrcat(str, szTmp);
+				}
+			}
+
+			MessageBox(hWnd, str, TEXT("선택한 파일"), MB_OK);
+		}
+		else
+		{
+			if (CommDlgExtendedError() == FNERR_BUFFERTOOSMALL)
+			{
+				MessageBox(hWnd, TEXT("버퍼 크기가 너무 작습니다"), TEXT("에러"), MB_OK);
+			}
+		}
+
+		return 0;
+
+	case WM_PAINT:
+		hdc = BeginPaint(hWnd, &ps);
+		TextOut(hdc, 10, 10, Mes, lstrlen(Mes));
+		EndPaint(hWnd, &ps);
+		return 0;
+
+	case WM_DESTROY:
+		PostQuitMessage(0);
+		return 0;
 
 	}
 	return (DefWindowProc(hWnd, iMessage, wParam, lParam));
