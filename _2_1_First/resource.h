@@ -987,6 +987,8 @@
 #define VK_BROWSER_STOP                 0xA9
 #define WM_NCMBUTTONDBLCLK              0x00A9
 #define VK_BROWSER_SEARCH               0xAA
+#define IDD_DIALOG13                    170
+#define IDD_DIALOG_15_1_3               170
 #define VK_BROWSER_FAVORITES            0xAB
 #define WM_NCXBUTTONDOWN                0x00AB
 #define VK_BROWSER_HOME                 0xAC
@@ -1338,6 +1340,10 @@
 #define IDC_EDIT_15_1_2_1               1015
 #define IDC_EDIT_15_1_2_2               1016
 #define IDC_EDIT_15_1_2_3               1017
+#define IDC_STATIC_15_1_3_1             1018
+#define IDC_EDIT_15_1_3                 1019
+#define IDC_BUTTON_15_1_3_1             1020
+#define IDC_BUTTON_15_1_3_2             1021
 #define CF_GDIOBJLAST                   0x03FF
 #define _WIN32_WINNT_NT4                0x0400
 #define _WIN32_IE_IE40                  0x0400
@@ -1729,9 +1735,9 @@
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
-#define _APS_NEXT_RESOURCE_VALUE        170
+#define _APS_NEXT_RESOURCE_VALUE        172
 #define _APS_NEXT_COMMAND_VALUE         40029
-#define _APS_NEXT_CONTROL_VALUE         1018
+#define _APS_NEXT_CONTROL_VALUE         1021
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
 #endif

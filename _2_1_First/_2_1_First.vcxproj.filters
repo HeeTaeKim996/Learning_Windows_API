@@ -28,8 +28,11 @@
     <Filter Include="소스 파일\14_Painting">
       <UniqueIdentifier>{b050bea6-7206-4149-8653-edf2362a3847}</UniqueIdentifier>
     </Filter>
-    <Filter Include="소스 파일\15_DialogBox">
+    <Filter Include="소스 파일\15_1_DialogBox">
       <UniqueIdentifier>{61f5eb1f-5fa0-4343-86b5-709bdf468159}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\15_2_FileOpenDial">
+      <UniqueIdentifier>{9a382e96-7546-41bf-a1b7-a524af24b34b}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -294,10 +297,25 @@
       <Filter>소스 파일\14_Painting</Filter>
     </ClCompile>
     <ClCompile Include="_15_1_1_DialogBoxParam.cpp">
-      <Filter>소스 파일\15_DialogBox</Filter>
+      <Filter>소스 파일\15_1_DialogBox</Filter>
     </ClCompile>
     <ClCompile Include="_15_1_2_DialogBoxParam2.cpp">
-      <Filter>소스 파일\15_DialogBox</Filter>
+      <Filter>소스 파일\15_1_DialogBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_15_1_3_DialogBoxParam_3.cpp">
+      <Filter>소스 파일\15_1_DialogBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_15_1_4_%28!%29DialogBoxIndirect%28MakingDlgBox_NotUsingRC%29.cpp">
+      <Filter>소스 파일\15_1_DialogBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_15_3_1_FileOpenDial_1.cpp">
+      <Filter>소스 파일\15_2_FileOpenDial</Filter>
+    </ClCompile>
+    <ClCompile Include="_15_3_2_FileOpenDial_2.cpp">
+      <Filter>소스 파일\15_2_FileOpenDial</Filter>
+    </ClCompile>
+    <ClCompile Include="_15_3_3_FileOpenDial_3.cpp">
+      <Filter>소스 파일\15_2_FileOpenDial</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

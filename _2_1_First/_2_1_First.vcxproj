@@ -185,6 +185,11 @@
     <ClCompile Include="_14_4_3_CreateDC.cpp" />
     <ClCompile Include="_15_1_2_DialogBoxParam2.cpp" />
     <ClCompile Include="_15_1_1_DialogBoxParam.cpp" />
+    <ClCompile Include="_15_1_3_DialogBoxParam_3.cpp" />
+    <ClCompile Include="_15_1_4_%28!%29DialogBoxIndirect%28MakingDlgBox_NotUsingRC%29.cpp" />
+    <ClCompile Include="_15_3_1_FileOpenDial_1.cpp" />
+    <ClCompile Include="_15_3_2_FileOpenDial_2.cpp" />
+    <ClCompile Include="_15_3_3_FileOpenDial_3.cpp" />
     <ClCompile Include="_2_1_First.cpp" />
     <ClCompile Include="_2_3_Transformationcpp.cpp" />
     <ClCompile Include="_3_1_TextOut.cpp" />
