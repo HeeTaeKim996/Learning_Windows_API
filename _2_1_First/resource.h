@@ -976,10 +976,14 @@
 #define IDB_BITMAP_HARRY                165
 #define VK_BROWSER_BACK                 0xA6
 #define WM_NCRBUTTONDBLCLK              0x00A6
+#define IDD_DIALOG11                    166
+#define IDD_DIALOG_15_1_1               166
 #define VK_BROWSER_FORWARD              0xA7
 #define WM_NCMBUTTONDOWN                0x00A7
 #define VK_BROWSER_REFRESH              0xA8
 #define WM_NCMBUTTONUP                  0x00A8
+#define IDD_DIALOG12                    168
+#define IDD_DIALOG_15_1_2               168
 #define VK_BROWSER_STOP                 0xA9
 #define WM_NCMBUTTONDBLCLK              0x00A9
 #define VK_BROWSER_SEARCH               0xAA
@@ -1330,6 +1334,10 @@
 #define IDC_CHECK1                      1008
 #define IDC_MY_TEXT                     1009
 #define IDCHANGE                        1011
+#define IDC_STATIC_TEXT123              1012
+#define IDC_EDIT_15_1_2_1               1015
+#define IDC_EDIT_15_1_2_2               1016
+#define IDC_EDIT_15_1_2_3               1017
 #define CF_GDIOBJLAST                   0x03FF
 #define _WIN32_WINNT_NT4                0x0400
 #define _WIN32_IE_IE40                  0x0400
@@ -1721,9 +1729,9 @@
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
-#define _APS_NEXT_RESOURCE_VALUE        166
+#define _APS_NEXT_RESOURCE_VALUE        170
 #define _APS_NEXT_COMMAND_VALUE         40029
-#define _APS_NEXT_CONTROL_VALUE         1012
+#define _APS_NEXT_CONTROL_VALUE         1018
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
 #endif

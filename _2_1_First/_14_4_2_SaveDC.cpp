@@ -1,4 +1,4 @@
-#if 1 // Total
+#if 0 // Total
 /*----------------------------------------------------------------------------------------------------
 	
 	- SaveDC, RestoreDC 에 대한 내용입니다.
@@ -51,7 +51,7 @@
 ----------------------------------------------------------------------------------------------------*/
 
 
-#if 1 // 주석
+#if 0 // 주석
 #include <Windows.h>
 #include "resource.h"
 
@@ -109,17 +109,8 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 
 		nSaveDC = SaveDC(hdc);
 
-		TCHAR Mes[64];
-		wsprintf(Mes, TEXT("%d"), nSaveDC);
-		MessageBox(hWnd, Mes, TEXT("디버그"), MB_OK);
-
 		SelectObject(hdc, GetStockObject(BLACK_BRUSH));
 		Ellipse(hdc, 0, 0, 300, 200);
-
-		nSaveDC = SaveDC(hdc);
-
-		wsprintf(Mes, TEXT("%d"), nSaveDC);
-		MessageBox(hWnd, Mes, TEXT("디버그"), MB_OK);
 
 		RestoreDC(hdc, nSaveDC);
 		Rectangle(hdc, 50, 50, 250, 150);
@@ -141,7 +132,7 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 #endif // 주석
 
 
-#if 0 // 코드만
+#if 1 // 코드만
 #include <Windows.h>
 #include "resource.h"
 
@@ -185,12 +176,33 @@ int APIENTRY WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpszCmd
 LRESULT CALLBACK WndProc(HWND hWnd, UINT iMessage, WPARAM wParam, LPARAM lParam)
 {
 	HDC hdc;
+	PAINTSTRUCT ps;
+	int nSaveDC;
 
 
 	switch (iMessage)
 	{
+	case WM_PAINT:
+		hdc = BeginPaint(hWnd, &ps);
+
+		SelectObject(hdc, GetStockObject(LTGRAY_BRUSH));
+		Rectangle(hdc, 0, 0, 300, 200);
+
+		nSaveDC = SaveDC(hdc);
+
+		SelectObject(hdc, GetStockObject(BLACK_BRUSH));
+		Ellipse(hdc, 0, 0, 300, 200);
+
+		RestoreDC(hdc, nSaveDC);
+		Rectangle(hdc, 50, 50, 250, 150);
+
+		EndPaint(hWnd, &ps);
+		return 0;
 
 
+	case WM_DESTROY:
+		PostQuitMessage(0);
+		return 0;
 	}
 	return (DefWindowProc(hWnd, iMessage, wParam, lParam));
 }

@@ -182,6 +182,9 @@
     <ClCompile Include="_14_3_2_Mouse3(UsedBitmapToRePaint).cpp" />
     <ClCompile Include="_14_4_1_LockWindowUpdate.cpp" />
     <ClCompile Include="_14_4_2_SaveDC.cpp" />
+    <ClCompile Include="_14_4_3_CreateDC.cpp" />
+    <ClCompile Include="_15_1_2_DialogBoxParam2.cpp" />
+    <ClCompile Include="_15_1_1_DialogBoxParam.cpp" />
     <ClCompile Include="_2_1_First.cpp" />
     <ClCompile Include="_2_3_Transformationcpp.cpp" />
     <ClCompile Include="_3_1_TextOut.cpp" />
