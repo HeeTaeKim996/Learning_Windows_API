@@ -3,8 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_5_BrwoseFolder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_3_5_BrwoseFolder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_5_2_Menu_Cursor_Icon.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_5_2_Menu_Cursor_Icon.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_2_2_VKeyToItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_16_2_2_VKeyToItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_1_3_MultiSel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_16_1_3_MultiSel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_8_1_1_DialogBox_Introducing_Dlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_8_1_1_DialogBox_Introducing_Dlg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_1_ColorDial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:2:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_4_1_ColorDial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_1_2_LBS_ADDSTRING, LBS_DELETESTRING.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_16_1_2_LBS_ADDSTRING, LBS_DELETESTRING.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_1_1_LBS_MULTICOLUMN, LB_SETCOLUMN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_16_1_1_LBS_MULTICOLUMN, LB_SETCOLUMN.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_3_FindDial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_4_3_FindDial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_2_FontDial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_4_2_FontDial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_1_ColorDial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:1:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_4_1_ColorDial.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:2:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:1:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:2:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_3_FileOpenDial_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -17,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_4_FileOpenDial_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_3_4_FileOpenDial_4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\Sample_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\Sample_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:1:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_3_FileOpenDial_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -43,10 +87,6 @@
       "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_1_4_(!)DialogBoxIndirect(MakingDlgBox_NotUsingRC).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_5_2_Menu_Cursor_Icon.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_5_2_Menu_Cursor_Icon.rc||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_1_3_DialogBoxParam_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_1_3_DialogBoxParam_3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -57,14 +97,6 @@
     {
       "AbsoluteMoniker": "D:2:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_4_3_CreateDC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:2:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_14_4_3_CreateDC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_1_1_DialogBoxParam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\_15_1_1_DialogBoxParam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\Sample_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|solutionrelative:_2_1_First\\Sample_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:1:0:{32F5046D-0FBD-4254-8EC2-D9FC33968213}|_2_1_First\\_2_1_First.vcxproj|C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_4_3_CreateDC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -170,11 +202,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "_15_4_1_ColorDial.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_1_ColorDial.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_15_4_1_ColorDial.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_1_ColorDial.cpp",
+              "RelativeToolTip": "_2_1_First\\_15_4_1_ColorDial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T01:31:15.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "_15_3_3_FileOpenDial_3.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_3_FileOpenDial_3.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_15_3_3_FileOpenDial_3.cpp",
@@ -182,12 +226,36 @@
               "RelativeToolTip": "_2_1_First\\_15_3_3_FileOpenDial_3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-28T12:41:01.475Z",
+              "WhenOpened": "2025-07-28T12:41:01.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_5_2_Menu_Cursor_Icon.rc",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_5_2_Menu_Cursor_Icon.rc",
+              "RelativeDocumentMoniker": "_2_1_First\\_5_2_Menu_Cursor_Icon.rc",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_5_2_Menu_Cursor_Icon.rc",
+              "RelativeToolTip": "_2_1_First\\_5_2_Menu_Cursor_Icon.rc",
+              "ViewState": "AgIAAL8BAAAAAAAAAAApwO4BAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-28T03:15:03.066Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
+              "Title": "_15_3_5_(!)BrwoseFolder.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp",
+              "RelativeToolTip": "_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-28T13:41:22.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "_15_3_2_FileOpenDial_2.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_2_FileOpenDial_2.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_15_3_2_FileOpenDial_2.cpp",
@@ -195,12 +263,11 @@
               "RelativeToolTip": "_2_1_First\\_15_3_2_FileOpenDial_2.cpp",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-28T05:45:18.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T05:45:18.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 19,
               "Title": "_15_3_1_FileOpenDial_1.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_1_FileOpenDial_1.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_15_3_1_FileOpenDial_1.cpp",
@@ -212,19 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_5_2_Menu_Cursor_Icon.rc",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_5_2_Menu_Cursor_Icon.rc",
-              "RelativeDocumentMoniker": "_2_1_First\\_5_2_Menu_Cursor_Icon.rc",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_5_2_Menu_Cursor_Icon.rc",
-              "RelativeToolTip": "_2_1_First\\_5_2_Menu_Cursor_Icon.rc",
-              "ViewState": "AgIAAKYBAAAAAAAAAAAiwM0BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-28T03:15:03.066Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "_14_4_3_CreateDC.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_4_3_CreateDC.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_4_3_CreateDC.cpp",
@@ -236,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "_14_4_1_LockWindowUpdate.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_4_1_LockWindowUpdate.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_4_1_LockWindowUpdate.cpp",
@@ -248,7 +303,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "_14_4_2_SaveDC.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_4_2_SaveDC.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_4_2_SaveDC.cpp",
@@ -260,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "_14_3_2_Mouse3(UsedBitmapToRePaint).cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_3_2_Mouse3(UsedBitmapToRePaint).cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_3_2_Mouse3(UsedBitmapToRePaint).cpp",
@@ -272,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "_13_3_3_SuperEdit.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_13_3_3_SuperEdit.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_13_3_3_SuperEdit.cpp",
@@ -284,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 47,
               "Title": "_13_2_2_SendMessageCallback.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_13_2_2_SendMessageCallback.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_13_2_2_SendMessageCallback.cpp",
@@ -296,7 +351,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "_13_3_1_SubEdit__(GWLP_WNDPROC, CallWindowProc).cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_13_3_1_SubEdit__(GWLP_WNDPROC, CallWindowProc).cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_13_3_1_SubEdit__(GWLP_WNDPROC, CallWindowProc).cpp",
@@ -310,7 +365,7 @@
         },
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -318,33 +373,131 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_15_3_5_BrwoseFolder.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_5_BrwoseFolder.cpp",
-              "RelativeDocumentMoniker": "_2_1_First\\_15_3_5_BrwoseFolder.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_5_BrwoseFolder.cpp",
-              "RelativeToolTip": "_2_1_First\\_15_3_5_BrwoseFolder.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEEAAAALAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "_16_2_2_VKeyToItem.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_2_2_VKeyToItem.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_16_2_2_VKeyToItem.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_2_2_VKeyToItem.cpp",
+              "RelativeToolTip": "_2_1_First\\_16_2_2_VKeyToItem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-28T13:00:51.659Z",
+              "WhenOpened": "2025-07-29T04:10:49.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Sample_2.txt",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\Sample_2.txt",
-              "RelativeDocumentMoniker": "_2_1_First\\Sample_2.txt",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\Sample_2.txt",
-              "RelativeToolTip": "_2_1_First\\Sample_2.txt",
-              "ViewState": "AgIAACwAAAAAAAAAAAAwwGAAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-28T12:53:44.367Z",
+              "Title": "_8_1_1_DialogBox_Introducing_Dlg.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_8_1_1_DialogBox_Introducing_Dlg.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_8_1_1_DialogBox_Introducing_Dlg.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_8_1_1_DialogBox_Introducing_Dlg.cpp",
+              "RelativeToolTip": "_2_1_First\\_8_1_1_DialogBox_Introducing_Dlg.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAFwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T04:01:54.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp",
+              "RelativeToolTip": "_2_1_First\\_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T03:47:58.278Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "_16_1_3_MultiSel.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_1_3_MultiSel.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_16_1_3_MultiSel.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_1_3_MultiSel.cpp",
+              "RelativeToolTip": "_2_1_First\\_16_1_3_MultiSel.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T03:34:06.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_16_1_2_LBS_ADDSTRING, LBS_DELETESTRING.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_1_2_LBS_ADDSTRING, LBS_DELETESTRING.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_16_1_2_LBS_ADDSTRING, LBS_DELETESTRING.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_1_2_LBS_ADDSTRING, LBS_DELETESTRING.cpp",
+              "RelativeToolTip": "_2_1_First\\_16_1_2_LBS_ADDSTRING, LBS_DELETESTRING.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T03:00:43.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_16_1_1_LBS_MULTICOLUMN, LB_SETCOLUMN.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_1_1_LBS_MULTICOLUMN, LB_SETCOLUMN.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_16_1_1_LBS_MULTICOLUMN, LB_SETCOLUMN.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_16_1_1_LBS_MULTICOLUMN, LB_SETCOLUMN.cpp",
+              "RelativeToolTip": "_2_1_First\\_16_1_1_LBS_MULTICOLUMN, LB_SETCOLUMN.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T02:51:22.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_15_4_3_FindDial.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_3_FindDial.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_15_4_3_FindDial.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_3_FindDial.cpp",
+              "RelativeToolTip": "_2_1_First\\_15_4_3_FindDial.cpp",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAACcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T02:09:07.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_15_4_2_FontDial.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_2_FontDial.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_15_4_2_FontDial.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_2_FontDial.cpp",
+              "RelativeToolTip": "_2_1_First\\_15_4_2_FontDial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T01:40:31.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_15_4_1_ColorDial.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_1_ColorDial.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_15_4_1_ColorDial.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_4_1_ColorDial.cpp",
+              "RelativeToolTip": "_2_1_First\\_15_4_1_ColorDial.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-29T01:21:19.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_15_3_5_(!)BrwoseFolder.cpp",
+              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp",
+              "RelativeDocumentMoniker": "_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp",
+              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp",
+              "RelativeToolTip": "_2_1_First\\_15_3_5_(!)BrwoseFolder.cpp",
+              "ViewState": "AgIAAAoBAAAALgk3Su0qwLAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-28T13:00:51.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "_15_3_4_FileOpenDial_4.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_4_FileOpenDial_4.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_15_3_4_FileOpenDial_4.cpp",
@@ -352,12 +505,11 @@
               "RelativeToolTip": "_2_1_First\\_15_3_4_FileOpenDial_4.cpp",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-28T12:53:41.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T12:53:41.882Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "_15_3_3_FileOpenDial_3.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_3_FileOpenDial_3.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_15_3_3_FileOpenDial_3.cpp",
@@ -365,12 +517,11 @@
               "RelativeToolTip": "_2_1_First\\_15_3_3_FileOpenDial_3.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-28T06:24:25.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T06:24:25.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 17,
               "Title": "_15_3_2_FileOpenDial_2.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_2_FileOpenDial_2.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_15_3_2_FileOpenDial_2.cpp",
@@ -382,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 18,
               "Title": "_15_3_1_FileOpenDial_1.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_3_1_FileOpenDial_1.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_15_3_1_FileOpenDial_1.cpp",
@@ -394,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 20,
               "Title": "_15_1_4_(!)DialogBoxIndirect(MakingDlgBox_NotUsingRC).cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_1_4_(!)DialogBoxIndirect(MakingDlgBox_NotUsingRC).cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_15_1_4_(!)DialogBoxIndirect(MakingDlgBox_NotUsingRC).cpp",
@@ -402,11 +553,12 @@
               "RelativeToolTip": "_2_1_First\\_15_1_4_(!)DialogBoxIndirect(MakingDlgBox_NotUsingRC).cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-28T03:39:36.598Z"
+              "WhenOpened": "2025-07-28T03:39:36.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 21,
               "Title": "_15_1_3_DialogBoxParam_3.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_1_3_DialogBoxParam_3.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_15_1_3_DialogBoxParam_3.cpp",
@@ -418,7 +570,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 22,
               "Title": "_15_1_2_DialogBoxParam2.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_1_2_DialogBoxParam2.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_15_1_2_DialogBoxParam2.cpp",
@@ -430,31 +582,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_15_1_1_DialogBoxParam.cpp",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_1_1_DialogBoxParam.cpp",
-              "RelativeDocumentMoniker": "_2_1_First\\_15_1_1_DialogBoxParam.cpp",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_15_1_1_DialogBoxParam.cpp",
-              "RelativeToolTip": "_2_1_First\\_15_1_1_DialogBoxParam.cpp",
-              "ViewState": "AgIAACwAAAAAAAAAAADwv3kAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-07-28T01:48:26.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Sample_1.txt",
-              "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\Sample_1.txt",
-              "RelativeDocumentMoniker": "_2_1_First\\Sample_1.txt",
-              "ToolTip": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\Sample_1.txt",
-              "RelativeToolTip": "_2_1_First\\Sample_1.txt",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAwwDsAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-07-26T02:30:35.643Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "_14_4_3_CreateDC.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_4_3_CreateDC.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_4_3_CreateDC.cpp",
@@ -466,7 +594,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "_14_4_2_SaveDC.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_4_2_SaveDC.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_4_2_SaveDC.cpp",
@@ -478,7 +606,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "_14_4_1_LockWindowUpdate.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_4_1_LockWindowUpdate.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_4_1_LockWindowUpdate.cpp",
@@ -490,7 +618,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "_14_3_2_Mouse3(UsedBitmapToRePaint).cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_3_2_Mouse3(UsedBitmapToRePaint).cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_3_2_Mouse3(UsedBitmapToRePaint).cpp",
@@ -502,7 +630,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "_14_3_1_Mouse2(StroingDrawInforms).cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_3_1_Mouse2(StroingDrawInforms).cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_3_1_Mouse2(StroingDrawInforms).cpp",
@@ -514,7 +642,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "_14_2_3.WM_BEGINPAINT.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_2_3.WM_BEGINPAINT.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_2_3.WM_BEGINPAINT.cpp",
@@ -526,7 +654,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "_14_2_6_WM_ERASEBKGND(DrawingBackground).cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_2_6_WM_ERASEBKGND(DrawingBackground).cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_2_6_WM_ERASEBKGND(DrawingBackground).cpp",
@@ -538,7 +666,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "_14_2_4_WM_NCPAINT.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_2_4_WM_NCPAINT.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_2_4_WM_NCPAINT.cpp",
@@ -550,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "_14_2_5_(!)WM_ERASEBKGND.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_2_5_(!)WM_ERASEBKGND.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_2_5_(!)WM_ERASEBKGND.cpp",
@@ -562,7 +690,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 36,
               "Title": "_14_2_2_rcPaint.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_2_2_rcPaint.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_2_2_rcPaint.cpp",
@@ -574,7 +702,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 37,
               "Title": "_14_2_1_WS_CLIPCHILDREN, WS_CLIPSIBLINGS.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_2_1_WS_CLIPCHILDREN, WS_CLIPSIBLINGS.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_2_1_WS_CLIPCHILDREN, WS_CLIPSIBLINGS.cpp",
@@ -586,7 +714,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 38,
               "Title": "_14_1_4_WM_PAINT, UpdateWindow.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_1_4_WM_PAINT, UpdateWindow.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_1_4_WM_PAINT, UpdateWindow.cpp",
@@ -598,7 +726,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "_14_1_1_OwnDC(CS_OWNDC).cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_1_1_OwnDC(CS_OWNDC).cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_1_1_OwnDC(CS_OWNDC).cpp",
@@ -610,7 +738,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "_14_1_3_(!)GetDviceCaps.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_14_1_3_(!)GetDviceCaps.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_14_1_3_(!)GetDviceCaps.cpp",
@@ -622,7 +750,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "_13_5_UserMes(WM_USER, WM_APP, RegisteWindowMessage).cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_13_5_UserMes(WM_USER, WM_APP, RegisteWindowMessage).cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_13_5_UserMes(WM_USER, WM_APP, RegisteWindowMessage).cpp",
@@ -634,7 +762,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "_13_3_3_SuperEdit.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_13_3_3_SuperEdit.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_13_3_3_SuperEdit.cpp",
@@ -646,7 +774,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "_13_3_2_SubEdit2_GCLP_WNDPROC.cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_13_3_2_SubEdit2_GCLP_WNDPROC.cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_13_3_2_SubEdit2_GCLP_WNDPROC.cpp",
@@ -658,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
               "Title": "_13_3_1_SubEdit__(GWLP_WNDPROC, CallWindowProc).cpp",
               "DocumentMoniker": "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\_2_1_First\\_13_3_1_SubEdit__(GWLP_WNDPROC, CallWindowProc).cpp",
               "RelativeDocumentMoniker": "_2_1_First\\_13_3_1_SubEdit__(GWLP_WNDPROC, CallWindowProc).cpp",

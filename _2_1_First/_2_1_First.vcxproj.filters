@@ -34,6 +34,9 @@
     <Filter Include="소스 파일\15_2_FileOpenDial">
       <UniqueIdentifier>{9a382e96-7546-41bf-a1b7-a524af24b34b}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\16_1_ListBox">
+      <UniqueIdentifier>{6a1902ca-cd47-4aac-88ee-43b8edb3c9ce}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -320,8 +323,32 @@
     <ClCompile Include="_15_3_4_FileOpenDial_4.cpp">
       <Filter>소스 파일\15_2_FileOpenDial</Filter>
     </ClCompile>
-    <ClCompile Include="_15_3_5_BrwoseFolder.cpp">
+    <ClCompile Include="_15_3_5_%28!%29BrwoseFolder.cpp">
       <Filter>소스 파일\15_2_FileOpenDial</Filter>
+    </ClCompile>
+    <ClCompile Include="_15_4_1_ColorDial.cpp">
+      <Filter>소스 파일\15_2_FileOpenDial</Filter>
+    </ClCompile>
+    <ClCompile Include="_15_4_2_FontDial.cpp">
+      <Filter>소스 파일\15_2_FileOpenDial</Filter>
+    </ClCompile>
+    <ClCompile Include="_15_4_3_FindDial.cpp">
+      <Filter>소스 파일\15_2_FileOpenDial</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_1_1_LBS_MULTICOLUMN, LB_SETCOLUMN.cpp">
+      <Filter>소스 파일\16_1_ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_1_2_LBS_ADDSTRING, LBS_DELETESTRING.cpp">
+      <Filter>소스 파일\16_1_ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_1_3_MultiSel.cpp">
+      <Filter>소스 파일\16_1_ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_2_1_UseTabInListBoxsString%28LBS_USETABSTOPS%29.cpp">
+      <Filter>소스 파일\16_1_ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_2_2_VKeyToItem.cpp">
+      <Filter>소스 파일\16_1_ListBox</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

@@ -1,3 +1,102 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 중간 디렉터리(x64\Debug\)에 다른 프로젝트(_2_1_First.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
-  _15_3_3_FileOpenDial_3.cpp
+  _16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(39,9): warning C4005: 'CREATEPROCESS_MANIFEST_RESOURCE_ID': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(283,9):
+      'CREATEPROCESS_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(40,9): warning C4005: 'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(288,9):
+      'MINIMUM_RESERVED_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(223,9): warning C4005: 'ISOLATIONAWARE_MANIFEST_RESOURCE_ID': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(284,9):
+      'ISOLATIONAWARE_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(312,9): warning C4005: 'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(285,9):
+      'ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(346,9): warning C4005: 'ISOLATIONPOLICY_MANIFEST_RESOURCE_ID': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(286,9):
+      'ISOLATIONPOLICY_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(396,9): warning C4005: 'ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(287,9):
+      'ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(543,9): warning C4005: 'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(289,9):
+      'MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(607,9): warning C4005: 'RT_MANIFEST': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(282,9):
+      'RT_MANIFEST'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(1613,9): warning C4005: 'IDI_APPLICATION': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11092,9):
+      'IDI_APPLICATION'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(1616,9): warning C4005: 'IDI_HAND': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11093,9):
+      'IDI_HAND'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(1619,9): warning C4005: 'IDI_QUESTION': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11094,9):
+      'IDI_QUESTION'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(1622,9): warning C4005: 'IDI_EXCLAMATION': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11095,9):
+      'IDI_EXCLAMATION'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(1625,9): warning C4005: 'IDI_ASTERISK': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11096,9):
+      'IDI_ASTERISK'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(1627,9): warning C4005: 'IDI_WINLOGO': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11098,9):
+      'IDI_WINLOGO'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(1629,9): warning C4005: 'IDI_SHIELD': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(11101,9):
+      'IDI_SHIELD'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(1731,9): warning C4005: 'HTERROR': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2568,9):
+      'HTERROR'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(1733,9): warning C4005: 'PWR_FAIL': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2078,9):
+      'PWR_FAIL'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\resource.h(1734,9): warning C4005: 'HTTRANSPARENT': 매크로 재정의
+  (소스 파일 '_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp'을(를) 컴파일하는 중)
+      C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\winuser.h(2569,9):
+      'HTTRANSPARENT'의 이전 정의를 참조하십시오.
+  
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_16_2_1_UseTabInListBoxsString(LB_SETTABSTOPS).cpp(86,6): warning C4101: 'hdc' :참조되지 않은 지역 변수입니다.
+  _16_2_2_VKeyToItem.cpp
+  코드를 생성하고 있습니다...
+resource.h(1731): warning RC4005: 'HTERROR' : redefinition
+  
+resource.h(1733): warning RC4005: 'PWR_FAIL' : redefinition
+  
+resource.h(1734): warning RC4005: 'HTTRANSPARENT' : redefinition
+  
   _2_1_First.vcxproj -> C:\Users\Heetae\source\repos\Learning_WindowsAPI\x64\Debug\Learning_WindowsAPI.exe

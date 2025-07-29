@@ -191,7 +191,15 @@
     <ClCompile Include="_15_3_2_FileOpenDial_2.cpp" />
     <ClCompile Include="_15_3_3_FileOpenDial_3.cpp" />
     <ClCompile Include="_15_3_4_FileOpenDial_4.cpp" />
-    <ClCompile Include="_15_3_5_BrwoseFolder.cpp" />
+    <ClCompile Include="_15_3_5_%28!%29BrwoseFolder.cpp" />
+    <ClCompile Include="_15_4_1_ColorDial.cpp" />
+    <ClCompile Include="_15_4_2_FontDial.cpp" />
+    <ClCompile Include="_15_4_3_FindDial.cpp" />
+    <ClCompile Include="_16_1_1_LBS_MULTICOLUMN, LB_SETCOLUMN.cpp" />
+    <ClCompile Include="_16_1_2_LBS_ADDSTRING, LBS_DELETESTRING.cpp" />
+    <ClCompile Include="_16_1_3_MultiSel.cpp" />
+    <ClCompile Include="_16_2_1_UseTabInListBoxsString%28LBS_USETABSTOPS%29.cpp" />
+    <ClCompile Include="_16_2_2_VKeyToItem.cpp" />
     <ClCompile Include="_2_1_First.cpp" />
     <ClCompile Include="_2_3_Transformationcpp.cpp" />
     <ClCompile Include="_3_1_TextOut.cpp" />
