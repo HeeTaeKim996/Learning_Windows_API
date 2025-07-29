@@ -997,13 +997,19 @@
 #define VK_VOLUME_MUTE                  0xAD
 #define WM_NCXBUTTONDBLCLK              0x00AD
 #define VK_VOLUME_DOWN                  0xAE
+#define IDD_DIALOG_16_1                 174
+#define IDD_DIALOG_16_3_1               174
 #define VK_VOLUME_UP                    0xAF
 #define VK_MEDIA_NEXT_TRACK             0xB0
 #define EM_GETSEL                       0x00B0
+#define IDB_BITMAP_16_4_1               176
 #define VK_MEDIA_PREV_TRACK             0xB1
 #define EM_SETSEL                       0x00B1
+#define IDB_BITMAP_16_4_2               177
 #define VK_MEDIA_STOP                   0xB2
 #define EM_GETRECT                      0x00B2
+#define IDB_BITMAP18                    178
+#define IDB_BITMAP_16_4_3               178
 #define VK_MEDIA_PLAY_PAUSE             0xB3
 #define EM_SETRECT                      0x00B3
 #define VK_LAUNCH_MAIL                  0xB4
@@ -1347,7 +1353,10 @@
 #define IDC_BUTTON_15_1_3_2             1021
 #define IDC_LIST1                       1021
 #define IDC_LIST_16_2_1                 1021
+#define IDC_LIST_16_3_1                 1021
+#define IDC_BUTTON_Find                 1022
 #define CF_GDIOBJLAST                   0x03FF
+#define IDC_BUTTON_FindExact            1023
 #define _WIN32_WINNT_NT4                0x0400
 #define _WIN32_IE_IE40                  0x0400
 #define WM_USER                         0x0400
@@ -1362,8 +1371,10 @@
 #define TCS_FIXEDWIDTH                  0x0400
 #define ctlFirst                        0x0400
 #define psh1                            0x0400
+#define IDC_BUTTON_Select               1024
 #define _WIN32_IE_IE401                 0x0401
 #define psh2                            0x0401
+#define IDC_EDIT_16_3_1                 1025
 #define psh3                            0x0402
 #define psh4                            0x0403
 #define psh5                            0x0404
@@ -1738,9 +1749,9 @@
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
-#define _APS_NEXT_RESOURCE_VALUE        174
+#define _APS_NEXT_RESOURCE_VALUE        179
 #define _APS_NEXT_COMMAND_VALUE         40029
-#define _APS_NEXT_CONTROL_VALUE         1022
+#define _APS_NEXT_CONTROL_VALUE         1026
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
 #endif

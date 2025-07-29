@@ -211,6 +211,12 @@ IDB_BITMAP16            BITMAP                  "c:\\users\\heetae\\source\\repo
 
 IDB_BITMAP_HARRY        BITMAP                  "C:\\Users\\Heetae\\source\\repos\\Learning_WindowsAPI\\OtherFiles\\Harry.bmp"
 
+IDB_BITMAP_16_4_1       BITMAP                  "c:\\users\\heetae\\source\\repos\\learning_windowsapi\\otherfiles\\bitmap18.bmp"
+
+IDB_BITMAP_16_4_2       BITMAP                  "c:\\users\\heetae\\source\\repos\\learning_windowsapi\\otherfiles\\bmp00019.bmp"
+
+IDB_BITMAP_16_4_3       BITMAP                  "c:\\users\\heetae\\source\\repos\\learning_windowsapi\\otherfiles\\bmp00020.bmp"
+
 
 /////////////////////////////////////////////////////////////////////////////
 //
@@ -285,6 +291,14 @@ BEGIN
     END
 
     IDD_DIALOG_16_2_1, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 303
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 169
+    END
+
+    IDD_DIALOG_16_3_1, DIALOG
     BEGIN
         LEFTMARGIN, 7
         RIGHTMARGIN, 303
@@ -366,6 +380,11 @@ BEGIN
 END
 
 IDD_DIALOG_16_2_1 AFX_DIALOG_LAYOUT
+BEGIN
+    0
+END
+
+IDD_DIALOG_16_3_1 AFX_DIALOG_LAYOUT
 BEGIN
     0
 END
@@ -492,7 +511,21 @@ FONT 8, "MS Shell Dlg", 400, 0, 0x1
 BEGIN
     DEFPUSHBUTTON   "확인",IDOK,199,155,50,14
     PUSHBUTTON      "취소",IDCANCEL,253,155,50,14
-    LISTBOX         IDC_LIST_16_2_1,23,18,207,102,LBS_SORT | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP | LBS_USETABSTOPS | LBS_WANTKEYBOARDINPUT
+    LISTBOX         IDC_LIST_16_2_1,23,18,207,102,LBS_SORT | LBS_USETABSTOPS | LBS_NOINTEGRALHEIGHT | LBS_WANTKEYBOARDINPUT | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_DIALOG_16_3_1 DIALOGEX 0, 0, 310, 176
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "확인",IDOK,199,155,50,14
+    PUSHBUTTON      "취소",IDCANCEL,253,155,50,14
+    LISTBOX         IDC_LIST_16_3_1,15,14,100,155,LBS_SORT | LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_EDIT_16_3_1,144,19,105,14,ES_AUTOHSCROLL
+    PUSHBUTTON      "FindExact",IDC_BUTTON_FindExact,149,87,50,14
+    PUSHBUTTON      "Find",IDC_BUTTON_Find,148,59,50,14
+    PUSHBUTTON      "Select",IDC_BUTTON_Select,149,115,50,14
 END
 
 

@@ -350,6 +350,18 @@
     <ClCompile Include="_16_2_2_VKeyToItem.cpp">
       <Filter>소스 파일\16_1_ListBox</Filter>
     </ClCompile>
+    <ClCompile Include="_16_2_3_FindString.cpp">
+      <Filter>소스 파일\16_1_ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_3_1_LB_SETITEMDATA, LB_GETITEMDATA.cpp">
+      <Filter>소스 파일\16_1_ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_4_1_LBS_OWNERFIXED.cpp">
+      <Filter>소스 파일\16_1_ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_4_2_DirList.cpp">
+      <Filter>소스 파일\16_1_ListBox</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="Sample_1.txt" />
@@ -482,6 +494,15 @@
       <Filter>리소스 파일</Filter>
     </Image>
     <Image Include="..\otherfiles\bitmap16.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bitmap18.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00019.bmp">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="..\otherfiles\bmp00020.bmp">
       <Filter>리소스 파일</Filter>
     </Image>
   </ItemGroup>

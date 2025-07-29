@@ -200,6 +200,10 @@
     <ClCompile Include="_16_1_3_MultiSel.cpp" />
     <ClCompile Include="_16_2_1_UseTabInListBoxsString%28LBS_USETABSTOPS%29.cpp" />
     <ClCompile Include="_16_2_2_VKeyToItem.cpp" />
+    <ClCompile Include="_16_2_3_FindString.cpp" />
+    <ClCompile Include="_16_3_1_LB_SETITEMDATA, LB_GETITEMDATA.cpp" />
+    <ClCompile Include="_16_4_1_LBS_OWNERFIXED.cpp" />
+    <ClCompile Include="_16_4_2_DirList.cpp" />
     <ClCompile Include="_2_1_First.cpp" />
     <ClCompile Include="_2_3_Transformationcpp.cpp" />
     <ClCompile Include="_3_1_TextOut.cpp" />
@@ -245,6 +249,7 @@
     <Image Include="..\otherfiles\bitmap14.bmp" />
     <Image Include="..\otherfiles\bitmap15.bmp" />
     <Image Include="..\otherfiles\bitmap16.bmp" />
+    <Image Include="..\otherfiles\bitmap18.bmp" />
     <Image Include="..\otherfiles\bitmap2.bmp" />
     <Image Include="..\otherfiles\bitmap3.bmp" />
     <Image Include="..\otherfiles\bitmap4.bmp" />
@@ -271,6 +276,8 @@
     <Image Include="..\otherfiles\bmp00016.bmp" />
     <Image Include="..\otherfiles\bmp00017.bmp" />
     <Image Include="..\otherfiles\bmp00018.bmp" />
+    <Image Include="..\otherfiles\bmp00019.bmp" />
+    <Image Include="..\otherfiles\bmp00020.bmp" />
     <Image Include="..\OtherFiles\BMPPicture.bmp" />
     <Image Include="..\OtherFiles\Harry.bmp" />
     <Image Include="..\otherfiles\icon2.ico" />
