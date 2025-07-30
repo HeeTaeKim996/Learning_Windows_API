@@ -37,6 +37,9 @@
     <Filter Include="소스 파일\16_1_ListBox">
       <UniqueIdentifier>{6a1902ca-cd47-4aac-88ee-43b8edb3c9ce}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\16_2_ComboBox">
+      <UniqueIdentifier>{b301c502-0427-40d7-a4a1-09a62121cf86}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="framework.h">
@@ -119,7 +122,7 @@
     <ClCompile Include="_7_3_Edit.cpp">
       <Filter>소스 파일\1_10</Filter>
     </ClCompile>
-    <ClCompile Include="_7_4_ListBox_ComboBox.cpp">
+    <ClCompile Include="_7_4_ListBox, ComboBox.cpp">
       <Filter>소스 파일\1_10</Filter>
     </ClCompile>
     <ClCompile Include="_7_5_ScrollBar.cpp">
@@ -361,6 +364,12 @@
     </ClCompile>
     <ClCompile Include="_16_4_2_DirList.cpp">
       <Filter>소스 파일\16_1_ListBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_5_1_Dlg_ComboBox_Default.cpp">
+      <Filter>소스 파일\16_2_ComboBox</Filter>
+    </ClCompile>
+    <ClCompile Include="_16_5_2_ComboBox_Practice.cpp">
+      <Filter>소스 파일\16_2_ComboBox</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

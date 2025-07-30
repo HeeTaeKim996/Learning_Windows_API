@@ -68,6 +68,9 @@ C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_16_2_2_VKeyToItem.c
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_16_2_3_FindString.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_16_2_3_FindString.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_16_3_1_LB_SETITEMDATA, LB_GETITEMDATA.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_16_3_1_LB_SETITEMDATA, LB_GETITEMDATA.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_16_4_1_LBS_OWNERFIXED.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_16_4_1_LBS_OWNERFIXED.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_16_4_2_DirList.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_16_4_2_DirList.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_16_5_1_Dlg_ComboBox_Default.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_16_5_1_Dlg_ComboBox_Default.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_16_5_2_EnterCombo.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_16_5_2_EnterCombo.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_2_1_First.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_2_1_First.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_2_3_Transformationcpp.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_2_3_Transformationcpp.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_3_1_TextOut.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_3_1_TextOut.obj
@@ -91,7 +94,7 @@ C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_6_4_Font.cpp;C:\Use
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_1_Button_CheckButton.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_1_Button_CheckButton.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_2_RadioButton.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_2_RadioButton.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_3_Edit.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_3_Edit.obj
-C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_4_ListBox_ComboBox.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_4_ListBox_ComboBox.obj
+C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_4_ListBox, ComboBox.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_4_ListBox, ComboBox.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_7_5_ScrollBar.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_7_5_ScrollBar.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_8_1_1_DialogBox_Introducing_Dlg.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_8_1_1_DialogBox_Introducing_Dlg.obj
 C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\_8_1_2_DialogBox_DlgBase.cpp;C:\Users\Heetae\source\repos\Learning_WindowsAPI\_2_1_First\x64\Debug\_8_1_2_DialogBox_DlgBase.obj

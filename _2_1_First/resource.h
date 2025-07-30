@@ -1012,6 +1012,8 @@
 #define IDB_BITMAP_16_4_3               178
 #define VK_MEDIA_PLAY_PAUSE             0xB3
 #define EM_SETRECT                      0x00B3
+#define IDD_DIALOG14                    179
+#define IDD_DIALOG_16_5_1               179
 #define VK_LAUNCH_MAIL                  0xB4
 #define EM_SETRECTNP                    0x00B4
 #define VK_LAUNCH_MEDIA_SELECT          0xB5
@@ -1349,7 +1351,9 @@
 #define IDC_EDIT_15_1_2_3               1017
 #define IDC_STATIC_15_1_3_1             1018
 #define IDC_EDIT_15_1_3                 1019
+#define IDC_STATIC_15_1_3_2             1019
 #define IDC_BUTTON_15_1_3_1             1020
+#define IDC_STATIC_15_1_3_3             1020
 #define IDC_BUTTON_15_1_3_2             1021
 #define IDC_LIST1                       1021
 #define IDC_LIST_16_2_1                 1021
@@ -1377,8 +1381,11 @@
 #define IDC_EDIT_16_3_1                 1025
 #define psh3                            0x0402
 #define psh4                            0x0403
+#define IDC_COMBO_16_5_1                1027
 #define psh5                            0x0404
+#define IDC_COMBO_16_5_2                1028
 #define psh6                            0x0405
+#define IDC_COMBO_16_5_3                1029
 #define psh7                            0x0406
 #define psh8                            0x0407
 #define psh9                            0x0408
@@ -1749,9 +1756,9 @@
 // 
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
-#define _APS_NEXT_RESOURCE_VALUE        179
+#define _APS_NEXT_RESOURCE_VALUE        181
 #define _APS_NEXT_COMMAND_VALUE         40029
-#define _APS_NEXT_CONTROL_VALUE         1026
+#define _APS_NEXT_CONTROL_VALUE         1028
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
 #endif
